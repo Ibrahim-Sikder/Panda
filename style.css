@@ -1,3 +1,12 @@
 *{
     font-family: 'Oswald', sans-serif;
 }
+.pandaBg{
+    background:#FFEAE2;
+}
+.singleBanner img{
+    max-width:60%;
+}
+.footerSection{
+    background:#FFEAE2;
+}
